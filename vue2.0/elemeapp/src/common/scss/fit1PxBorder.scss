@@ -1,0 +1,40 @@
+// 适配移动端1px像素
+@media (-webkit-min-device-pixel-ratio: 1.5), (-webkit-device-pixel-ratio: 1.5) {
+  .border1px {
+    &:after {
+      transform: scaleY(0.7);
+      -webkit-transform: scaleY(0.7);
+    }
+  }
+}
+
+@media (-webkit-min-device-pixel-ratio: 2), (-webkit-device-pixel-ratio: 2) {
+  .border1px {
+    &:after {
+      transform: scaleY(0.5);
+      -webkit-transform: scaleY(0.5);
+    }
+  }
+}
+
+@media (-webkit-min-device-pixel-ratio: 3), (-webkit-device-pixel-ratio: 3) {
+  .border1px {
+    &:after {
+      transform: scaleY(0.3333333);
+      -webkit-transform: scaleY(0.333333);
+    }
+  }
+}
+
+// 万能清除浮动
+.clearfix {
+  display: inline-block;
+  &:after {
+    display: block;
+    content: '';
+    height: 0;
+    line-height: 0;
+    clear: both;
+    visibility: hidden;
+  }
+}

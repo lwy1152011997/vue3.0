@@ -1,0 +1,28 @@
+// 移动端1像素下边框, 实现方式: 伪类 + 缩放
+@mixin border1px($color) {
+  position: relative;
+  &:after {
+    display: block;
+    position: absolute;
+    width: 100%;
+    left: 0;
+    bottom: 0;
+    content: '';
+    border-top: 1px solid $color;
+  }
+}
+
+// 取消1px边框
+@mixin borderNone() {
+  &:after {
+    display: none;
+  }
+}
+
+// 针对不同像素比使用不同的2X图或者3X图
+@mixin bgImg($url) {
+  background-image: url($url + '@2x.png');
+  @media (-webkit-min-device-pixel-ratio: 3), (min-device-pixel-ratio: 3) {
+    background-image: url($url + '@3x.png');
+  }
+}

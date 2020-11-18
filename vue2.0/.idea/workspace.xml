@@ -1,0 +1,641 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="be7f6e24-6fa2-42a5-a7f0-0bfa4362b47c" name="默认的" comment="">
+      <change afterPath="$PROJECT_DIR$/elemeapp/src/components/Food/index.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/elemeapp/src/components/RatingSelect/index.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/elemeapp/src/components/Split/index.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/elemeapp/src/components/CartControl/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/elemeapp/src/components/CartControl/index.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/elemeapp/src/components/Goods/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/elemeapp/src/components/Goods/index.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/elemeapp/src/components/ShopCart/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/elemeapp/src/components/ShopCart/index.vue" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/elemeapp/src/components/Goods/index.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1188">
+              <caret line="84" column="56" selection-start-line="84" selection-start-column="56" selection-end-line="84" selection-end-column="56" />
+              <folding>
+                <element signature="n#div#0;n#div#0;n#template#0;n#!!top" />
+                <element signature="n#div#0;n#li#0;n#ul#0;n#li#0;n#ul#0;n#div#1;n#div#0;n#template#0;n#!!top" />
+                <element signature="n#div#0;n#div#1;n#li#0;n#ul#0;n#li#0;n#ul#0;n#div#1;n#div#0;n#template#0;n#!!top" />
+                <element signature="n#div#1;n#div#1;n#li#0;n#ul#0;n#li#0;n#ul#0;n#div#1;n#div#0;n#template#0;n#!!top" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/elemeapp/src/components/Food/index.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1224">
+              <caret line="89" selection-start-line="89" selection-end-line="89" selection-end-column="33" />
+              <folding>
+                <element signature="n#div#0;n#div#0;n#div#0;n#template#0;n#!!top" />
+                <element signature="n#div#1;n#div#0;n#div#0;n#template#0;n#!!top" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/elemeapp/src/components/RatingSelect/index.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="73" selection-start-line="7" selection-start-column="73" selection-end-line="7" selection-end-column="73" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/elemeapp/src/components/CartControl/index.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="162">
+              <caret line="9" column="56" selection-start-line="9" selection-start-column="56" selection-end-line="9" selection-end-column="56" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/elemeapp/src/components/Split/index.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="17" column="28" selection-start-line="17" selection-start-column="28" selection-end-line="17" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+        <option value="Vue Single File Component" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>mock</find>
+      <find>_computedHeight</find>
+      <find>listShow</find>
+      <find>BetterScroll</find>
+      <find>this.$set</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/elemeapp" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/elemeapp/src/components/HelloWorld.vue" />
+        <option value="$PROJECT_DIR$/elemeapp/src/vue.config.js" />
+        <option value="$PROJECT_DIR$/elemeapp/src/mockserve.js" />
+        <option value="$PROJECT_DIR$/elemeapp/src/assets/css/reset.css" />
+        <option value="$PROJECT_DIR$/elemeapp/public/index.html" />
+        <option value="$PROJECT_DIR$/elemeapp/package.json" />
+        <option value="$PROJECT_DIR$/elemeapp/src/components/Ratings/index.vue" />
+        <option value="$PROJECT_DIR$/elemeapp/src/components/Seller/index.vue" />
+        <option value="$PROJECT_DIR$/elemeapp/src/router/routes.js" />
+        <option value="$PROJECT_DIR$/elemeapp/src/router/router.js" />
+        <option value="$PROJECT_DIR$/elemeapp/src/common/stylus/icon.styl" />
+        <option value="$PROJECT_DIR$/elemeapp/src/common/stylus/icon.scss" />
+        <option value="$PROJECT_DIR$/elemeapp/src/common/scss/icon.scss" />
+        <option value="$PROJECT_DIR$/elemeapp/src/common/scss/base1px.scss" />
+        <option value="$PROJECT_DIR$/elemeapp/src/common/scss/index.scss" />
+        <option value="$PROJECT_DIR$/elemeapp/src/main.js" />
+        <option value="$PROJECT_DIR$/elemeapp/项目说明.md" />
+        <option value="$PROJECT_DIR$/elemeapp/src/api/axios-http.js" />
+        <option value="$PROJECT_DIR$/elemeapp/src/api/index.js" />
+        <option value="$PROJECT_DIR$/elemeapp/vue.config.js" />
+        <option value="$PROJECT_DIR$/elemeapp/stickyFotter.md" />
+        <option value="$PROJECT_DIR$/elemeapp/src/common/scss/fit1PxBorder.scss" />
+        <option value="$PROJECT_DIR$/elemeapp/src/common/publiccomponent/Star/index.vue" />
+        <option value="$PROJECT_DIR$/elemeapp/src/components/Header/index.vue" />
+        <option value="$PROJECT_DIR$/elemeapp/src/common/scss/mixin.scss" />
+        <option value="$PROJECT_DIR$/elemeapp/src/App.vue" />
+        <option value="$PROJECT_DIR$/../vue项目的打包.md" />
+        <option value="$PROJECT_DIR$/elemeapp/src/components/ShopCart/index.vue" />
+        <option value="$PROJECT_DIR$/elemeapp/src/components/Goods/index.vue" />
+        <option value="$PROJECT_DIR$/elemeapp/src/components/CartControl/index.vue" />
+        <option value="$PROJECT_DIR$/elemeapp/src/components/Split/index.vue" />
+        <option value="$PROJECT_DIR$/elemeapp/src/components/Food/index.vue" />
+        <option value="$PROJECT_DIR$/elemeapp/src/components/RatingSelect/index.vue" />
+      </list>
+    </option>
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="2017" />
+    <option name="y" value="93" />
+    <option name="width" value="1707" />
+    <option name="height" value="830" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="添加" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="vue2.0" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vue2.0" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vue2.0" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vue2.0" type="462c0819:PsiDirectoryNode" />
+              <item name="elemeapp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vue2.0" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vue2.0" type="462c0819:PsiDirectoryNode" />
+              <item name="elemeapp" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vue2.0" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vue2.0" type="462c0819:PsiDirectoryNode" />
+              <item name="elemeapp" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vue2.0" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vue2.0" type="462c0819:PsiDirectoryNode" />
+              <item name="elemeapp" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+              <item name="scss" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vue2.0" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vue2.0" type="462c0819:PsiDirectoryNode" />
+              <item name="elemeapp" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vue2.0" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vue2.0" type="462c0819:PsiDirectoryNode" />
+              <item name="elemeapp" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="Split" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="editor.config.ad.shown" value="true" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="JavaScript.Libraries" />
+    <property name="ts.external.directory.path" value="D:\WorkApp\WebStrom\WebStorm 2018.3.2\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\我的前端技术栈(不断的更新)\vue2.0\elemeapp\src\common\publiccomponent\Star\img" />
+      <recent name="D:\我的前端技术栈(不断的更新)\vue2.0\elemeapp\src\components\Header\img" />
+      <recent name="D:\我的前端技术栈(不断的更新)\vue2.0\elemeapp\src\common\scss" />
+      <recent name="D:\我的前端技术栈(不断的更新)\vue2.0\elemeapp\test" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\我的前端技术栈(不断的更新)\vue2.0\elemeapp" />
+      <recent name="D:\我的前端技术栈(不断的更新)\vue2.0\elemeapp\src\common\stylus" />
+      <recent name="D:\我的前端技术栈(不断的更新)\vue2.0\elemeapp\src\common\fonts" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="be7f6e24-6fa2-42a5-a7f0-0bfa4362b47c" name="默认的" comment="" />
+      <created>1602595732571</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602595732571</updated>
+      <workItem from="1602595734410" duration="3915000" />
+      <workItem from="1602600195969" duration="4245000" />
+      <workItem from="1602678454933" duration="11859000" />
+      <workItem from="1603200675263" duration="14640000" />
+      <workItem from="1603378893117" duration="7080000" />
+      <workItem from="1603507227799" duration="12159000" />
+      <workItem from="1603601060113" duration="9597000" />
+      <workItem from="1603711065329" duration="9446000" />
+      <workItem from="1603803750333" duration="9009000" />
+      <workItem from="1603977054624" duration="6595000" />
+      <workItem from="1604231748294" duration="1435000" />
+      <workItem from="1604324342491" duration="5206000" />
+      <workItem from="1604408883174" duration="349000" />
+      <workItem from="1604412476759" duration="2723000" />
+      <workItem from="1604499078282" duration="4410000" />
+      <workItem from="1604578548104" duration="18000" />
+      <workItem from="1604582977222" duration="3269000" />
+      <workItem from="1605015628618" duration="689000" />
+    </task>
+    <task id="LOCAL-00001" summary="哎呀忘记提交了">
+      <created>1603809558015</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1603809558015</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="106644000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="2017" y="93" width="1707" height="830" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14140204" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="运行" order="7" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.48132184" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="调试" order="12" />
+      <window_info anchor="bottom" id="找到" order="13" />
+      <window_info anchor="bottom" id="TypeScript" order="14" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="哎呀忘记提交了" />
+    <option name="LAST_COMMIT_MESSAGE" value="哎呀忘记提交了" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/elemeapp/src/components/HelloWorld.vue" />
+    <entry file="file://$USER_HOME$/Desktop/新建文件夹/vue-sell/src/common/stylus/icon.styl">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/elemeapp/src/mockserve.js" />
+    <entry file="file://$PROJECT_DIR$/elemeapp/src/assets/css/reset.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="22" lean-forward="true" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/elemeapp/public/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="55" selection-start-line="7" selection-start-column="55" selection-end-line="7" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/elemeapp/src/components/Ratings/index.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="1" column="14" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/elemeapp/src/components/Seller/index.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="1" column="13" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/elemeapp/mockdata/data.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="14" column="16" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
+          <folding>
+            <element signature="e#412#788#0" />
+            <element signature="e#891#1317#0" />
+            <element signature="e#1332#1454#0" />
+            <element signature="e#1471#39456#0" />
+            <element signature="e#39471#46130#0" />
+            <element signature="e#39477#39859#0" />
+            <element signature="e#39865#40180#0" />
+            <element signature="e#40186#40421#0" />
+            <element signature="e#40427#40692#0" />
+            <element signature="e#40698#40959#0" />
+            <element signature="e#40965#41234#0" />
+            <element signature="e#41240#41507#0" />
+            <element signature="e#41513#41780#0" />
+            <element signature="e#41786#42047#0" />
+            <element signature="e#42053#42342#0" />
+            <element signature="e#42348#42614#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/elemeapp/vue.config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="26" column="36" lean-forward="true" selection-start-line="26" selection-start-column="36" selection-end-line="26" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/elemeapp/resource/外卖06_商家页.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/elemeapp/resource/img/invoice_2@2x.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/elemeapp/src/components/Header/img/bulletin@2x.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/elemeapp/src/components/Header/img/bulletin@3x.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/elemeapp/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="432">
+            <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/elemeapp/项目说明.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="292">
+            <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/elemeapp/src/common/publiccomponent/Star/img/star24_on@3x.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/elemeapp/src/common/publiccomponent/Star/img/star36_half@2x.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/elemeapp/src/common/publiccomponent/Star/img/star36_on@3x.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/elemeapp/src/common/publiccomponent/Star/img/star24_half@2x.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/elemeapp/src/common/publiccomponent/Star/index.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="35" column="21" lean-forward="true" selection-start-line="35" selection-start-column="21" selection-end-line="35" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/elemeapp/stickyFotter.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor>
+            <caret column="19" selection-start-column="7" selection-end-column="19" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/elemeapp/src/router/router.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="17" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/elemeapp/src/api/axios-http.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" column="29" lean-forward="true" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/elemeapp/src/api/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="14" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/elemeapp/resource/外卖01_商品页.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/elemeapp/resource/外卖02_商品页_公告及优惠信息.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/elemeapp/resource/标注/外卖02_商品页_公告及优惠信息_spec.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/elemeapp/resource/标注/外卖01_商品页_spec.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../vue项目的打包.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="34">
+            <caret line="2" selection-start-line="2" selection-end-line="2" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/elemeapp/src/components/Header/index.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="787">
+          <caret line="157" column="11" selection-start-line="136" selection-start-column="10" selection-end-line="157" selection-end-column="11" />
+          <folding>
+            <element signature="n#div#1;n#div#0;n#div#0;n#template#0;n#!!top" />
+            <element signature="n#div#2;n#div#0;n#template#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/elemeapp/src/App.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="32" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
+          <folding>
+            <element signature="n#style#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/elemeapp/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="10" column="3" lean-forward="true" selection-start-line="10" selection-start-column="3" selection-end-line="14" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/elemeapp/src/router/routes.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="8" column="20" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
+          <folding>
+            <element signature="e#21#57#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/elemeapp/node_modules/_@better-scroll_core@2.0.5@@better-scroll/core/dist/types/index.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="9" selection-start-column="9" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/elemeapp/src/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="21" selection-start-column="21" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/elemeapp/src/components/ShopCart/index.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1582">
+          <caret line="340" column="21" selection-start-line="340" selection-start-column="21" selection-end-line="340" selection-end-column="21" />
+          <folding>
+            <element signature="n#div#0;n#div#0;n#div#0;n#template#0;n#!!top" />
+            <element signature="n#div#1;n#div#0;n#div#0;n#template#0;n#!!top" />
+            <element signature="n#div#1;n#div#0;n#template#0;n#!!top" />
+            <element signature="e#1653#1661#0" expanded="true" />
+            <element signature="e#3106#5415#0" />
+            <element signature="e#5449#5784#0" />
+            <element signature="e#5820#5834#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/elemeapp/src/common/scss/index.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="23" lean-forward="true" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/elemeapp/src/common/scss/mixin.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/elemeapp/src/common/scss/icon.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="46" column="18" selection-start-line="46" selection-start-column="1" selection-end-line="46" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/elemeapp/src/common/scss/fit1PxBorder.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="12" selection-start-line="20" selection-start-column="3" selection-end-line="20" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/elemeapp/src/components/Goods/index.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1188">
+          <caret line="84" column="56" selection-start-line="84" selection-start-column="56" selection-end-line="84" selection-end-column="56" />
+          <folding>
+            <element signature="n#div#0;n#div#0;n#template#0;n#!!top" />
+            <element signature="n#div#0;n#li#0;n#ul#0;n#li#0;n#ul#0;n#div#1;n#div#0;n#template#0;n#!!top" />
+            <element signature="n#div#0;n#div#1;n#li#0;n#ul#0;n#li#0;n#ul#0;n#div#1;n#div#0;n#template#0;n#!!top" />
+            <element signature="n#div#1;n#div#1;n#li#0;n#ul#0;n#li#0;n#ul#0;n#div#1;n#div#0;n#template#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/elemeapp/src/components/Food/index.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1224">
+          <caret line="89" selection-start-line="89" selection-end-line="89" selection-end-column="33" />
+          <folding>
+            <element signature="n#div#0;n#div#0;n#div#0;n#template#0;n#!!top" />
+            <element signature="n#div#1;n#div#0;n#div#0;n#template#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/elemeapp/src/components/CartControl/index.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="56" selection-start-line="9" selection-start-column="56" selection-end-line="9" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/elemeapp/src/components/Split/index.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="17" column="28" selection-start-line="17" selection-start-column="28" selection-end-line="17" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/elemeapp/src/components/RatingSelect/index.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="73" selection-start-line="7" selection-start-column="73" selection-end-line="7" selection-end-column="73" />
+          <folding>
+            <element signature="e#1111#1721#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

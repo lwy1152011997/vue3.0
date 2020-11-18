@@ -1,0 +1,59 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport"
+        content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Document</title>
+</head>
+<body>
+
+</body>
+<script>
+  /**
+   * ES5中的类, 静态方法, 继承, 自行百度
+   * */
+
+  /* ES5定义类 */
+  // 1工厂模式,解决了创建类似对象的问题，但没有解决对象的识别问题，即不能确定一个对象的类别，因为在浏览器端查看时都是Object。
+  function Person(name, age) {
+    var _person = new Object();
+    _person.name = name;
+    _person.age = age;
+    _person.getName = function () {
+      return this.name
+    }
+    _person.getAge = function () {
+      return this.age
+    }
+    return _person
+  }
+
+  var person = new Person('tonyLiu', 26);
+  console.log(person);
+
+  // 2构造函数的方法,确定了对象的归属问题，能够确定对象的类型，但构造函数中的方法需要在每个对象中都要重新创建一遍，会导致一些性能问题
+  function Person1(name, age, job) {
+    this.name = name;
+    this.age = age;
+    this.job = job;
+  }
+  // 原型链上添加方法
+  Person1.prototype = {
+    constructor: Person1,
+    getName(){
+      return this.name;
+    },
+    getAge(){
+      return this.age;
+    },
+    getJob(){
+      return this.job;
+    }
+  }
+
+  const person1 = new Person1('tony', 26, 'web');
+  console.log(person1);
+</script>
+</html>
